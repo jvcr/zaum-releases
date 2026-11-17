@@ -16,6 +16,11 @@ This repository has signed binaries only. It contains no source code.
 - Latest DMG: see [Releases](https://github.com/jvcr/zaum-releases/releases/latest). Each release has the
   Developer ID signed, notarized and stapled `Zaum-<version>-<build>.dmg` and its SHA-256 in the notes.
 
+## Hjorden
+
+Hjorden is an iPhone and iPad app to watch and answer the coding agents running in Skalet on your Mac. It isn't on the App Store yet.
+See its [privacy](PRIVACY.md#hjorden) and [support](SUPPORT.md#hjorden) sections.
+
 ## Updates
 
 Installed copies update through Sparkle from
