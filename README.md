@@ -1,15 +1,20 @@
-# Zaum for Mac: releases
+# Skalet for Mac: releases
 
-Zaum is a native terminal for macOS and iOS with persistent sessions, built for working with coding agents.
-More at <https://jvcr.se/apps/zaum/>.
+Skalet (formerly Zaum) is a native terminal for macOS and iOS with persistent sessions, built for working with coding agents.
+Its iPhone and iPad companion for coding agents is Hjorden (formerly Ebenda).
+
+- [Privacy](PRIVACY.md): [Skalet](PRIVACY.md#skalet), [Hjorden](PRIVACY.md#hjorden)
+- [Support](SUPPORT.md): [Skalet](SUPPORT.md#skalet), [Hjorden](SUPPORT.md#hjorden)
+- [Terms](TERMS.md)
 
 This repository has signed binaries only. It contains no source code.
 
-## Download
+## Skalet for Mac
+
+[Download the latest release](https://github.com/jvcr/zaum-releases/releases/latest) (DMG, macOS 15 or later).
 
 - Latest DMG: see [Releases](https://github.com/jvcr/zaum-releases/releases/latest). Each release has the
   Developer ID signed, notarized and stapled `Zaum-<version>-<build>.dmg` and its SHA-256 in the notes.
-- Stable link on the website: <https://jvcr.se/apps/zaum/Zaum-1.1.0.dmg>
 
 ## Updates
 
